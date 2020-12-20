@@ -26,12 +26,7 @@ public class FirstSeleniumTest {
     public void openSamsungTest() {
         System.out.println("site opened!!");
 
-
-
     }
-
-
-
 
     @AfterMethod(enabled = false)
     public void tearDown() {
