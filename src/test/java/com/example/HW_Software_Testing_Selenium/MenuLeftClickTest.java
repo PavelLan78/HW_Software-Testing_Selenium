@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class MenuTest {
+public class MenuLeftClickTest {
     WebDriver wd;
     WebDriverWait wait;
 
