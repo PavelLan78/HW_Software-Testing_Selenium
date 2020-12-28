@@ -32,7 +32,7 @@ public class AdminTest {
 
     }
 
-    @AfterMethod(enabled = false)
+    @AfterMethod(enabled = true)
     public void tearDown(){
         wd.quit();
     }
